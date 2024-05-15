@@ -1,0 +1,3 @@
+[submodule "GAN"]
+	path = GAN
+	url = git@github.com:renatoviolin/GAN-image-inpainting.git
